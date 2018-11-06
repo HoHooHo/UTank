@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: bf0e1aeeee6521a44ad469c513041ef6
+timeCreated: 1459333575
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: alien_head
+    100004: alien_jaw_bottom
+    100006: alien_jaw_slime
+    100008: alien_jaw_top
+    100010: alien_leg01_L
+    100012: alien_leg01_R
+    100014: alien_leg02_L
+    100016: alien_leg02_R
+    100018: alien_ROOT
+    100020: alien_spine01
+    100022: alien_spine02
+    100024: alien_spine03
+    100026: alien_tail01
+    100028: alien_tail02
+    100030: alien_tail03
+    100032: dripBone01
+    100034: dripBone01_NUB
+    100036: dripBone02
+    100038: dripBone02_NUB
+    100040: foot_LF_NUB
+    100042: foot_RF_NUB
+    100044: jaw_bottom_NUB
+    100046: jawTop_NUB
+    100048: shrimpBeast
+    100050: slimeMesh
+    100052: tail_NUB
+    400000: //RootNode
+    400002: alien_head
+    400004: alien_jaw_bottom
+    400006: alien_jaw_slime
+    400008: alien_jaw_top
+    400010: alien_leg01_L
+    400012: alien_leg01_R
+    400014: alien_leg02_L
+    400016: alien_leg02_R
+    400018: alien_ROOT
+    400020: alien_spine01
+    400022: alien_spine02
+    400024: alien_spine03
+    400026: alien_tail01
+    400028: alien_tail02
+    400030: alien_tail03
+    400032: dripBone01
+    400034: dripBone01_NUB
+    400036: dripBone02
+    400038: dripBone02_NUB
+    400040: foot_LF_NUB
+    400042: foot_RF_NUB
+    400044: jaw_bottom_NUB
+    400046: jawTop_NUB
+    400048: shrimpBeast
+    400050: slimeMesh
+    400052: tail_NUB
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: shrimpBeast
+    4300002: slimeMesh
+    4300004: PM3D_alien07_low
+    9500000: //RootNode
+    13700000: shrimpBeast
+    13700002: slimeMesh
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

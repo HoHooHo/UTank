@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 1874200174
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae9bebd89be4eb358bb09081c4fb2590
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6915249adb8faa7432557ab78029fc87
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6d95b434afb4b074ead5f273f39809f6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/test/sceneStack/PopView2.prefab
+- Assets/Prefabs/test/sceneStack/StackFullView1.prefab
+- Assets/Prefabs/test/sceneStack/StackFullView2.prefab
+- Assets/Prefabs/test/sceneStack/PopView1.prefab
+Dependencies: []

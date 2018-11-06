@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 95e247fc0f6c22a4688b422a4c8e676f
+timeCreated: 1469298029
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PACKT_astronaut_eyeL
+    100004: PACKT_astronaut_eyeR
+    100006: astronaut_eyeL
+    100008: astronaut_eyeR
+    100010: scleraL
+    100012: scleraR
+    400000: //RootNode
+    400002: PACKT_astronaut_eyeL
+    400004: PACKT_astronaut_eyeR
+    400006: astronaut_eyeL
+    400008: astronaut_eyeR
+    400010: scleraL
+    400012: scleraR
+    2300000: //RootNode
+    2300002: PACKT_astronaut_eyeL
+    2300004: PACKT_astronaut_eyeR
+    2300006: astronaut_eyeL
+    2300008: astronaut_eyeR
+    2300010: scleraL
+    2300012: scleraR
+    3300000: //RootNode
+    3300002: PACKT_astronaut_eyeL
+    3300004: PACKT_astronaut_eyeR
+    3300006: astronaut_eyeL
+    3300008: astronaut_eyeR
+    3300010: scleraL
+    3300012: scleraR
+    4300000: ' crewsuit'
+    4300002: PACKT_astronaut_eyeL
+    4300004: PACKT_astronaut_eyeR
+    4300006: astronaut_ crewsuit
+    4300008: astronaut_eyeL
+    4300010: astronaut_eyeR
+    4300012: scleraL
+    4300014: scleraR
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

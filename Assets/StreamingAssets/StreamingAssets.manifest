@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 487601803
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: testbutton
+      Dependencies: {}
+    Info_2:
+      Name: testevent
+      Dependencies: {}
+    Info_3:
+      Name: imageeffect
+      Dependencies: {}
+    Info_4:
+      Name: list/listtest
+      Dependencies: {}
+    Info_5:
+      Name: testsubprefab
+      Dependencies: {}
+    Info_6:
+      Name: scenestack
+      Dependencies: {}
+    Info_7:
+      Name: testsocket
+      Dependencies: {}
+    Info_8:
+      Name: test3d
+      Dependencies: {}
+    Info_9:
+      Name: testhttp
+      Dependencies: {}
+    Info_10:
+      Name: testtouchevent
+      Dependencies: {}
+    Info_11:
+      Name: testnestedprefabs
+      Dependencies:
+        Dependency_0: testsubprefab
+    Info_12:
+      Name: testlifecycle
+      Dependencies: {}
+    Info_13:
+      Name: testscheduler
+      Dependencies: {}

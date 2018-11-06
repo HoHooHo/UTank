@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3190563157
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f1a440181cc463777313ea17c9dee1e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c17b1d380272872a73e3cd8e98801a47
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6d95b434afb4b074ead5f273f39809f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0731834fae652c24fa27b5458032b05f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 53fa1fbf591d0944181c525ce6860197, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/test/TestEvent.prefab
+Dependencies: []
